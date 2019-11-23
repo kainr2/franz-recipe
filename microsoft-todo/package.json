@@ -1,0 +1,13 @@
+{
+  "id": "ms-todo",
+  "name": "Microsoft Todo",
+  "version": "1.0.1",
+  "description": "Microsoft Todo",
+  "main": "index.js",
+  "author": "Kittipong R <kainr2@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/kainr2/franz-microsoft-todo",
+  "config": {
+    "serviceURL": "https://todo.microsoft.com"
+  }
+}
